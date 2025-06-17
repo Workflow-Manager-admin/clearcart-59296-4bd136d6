@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 7, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "e0304580bc83f97774e09e1f35a7076c", "format-version": 4, "code-base-name": "default", "filename": "ClearCartApp/OrdersView.swift", "knowledge_revision": 14}
